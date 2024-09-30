@@ -1,7 +1,9 @@
 # Autogluon Colabs
 
-### The collab links are as follows:
+### This is the YouTube playlist containing the Google Colab projects I have executed:
+https://www.youtube.com/playlist?list=PLbA83Of28IMKPulW1oy5abeE-LLzO7OhS
 
+### The collab links are as follows:
 #### Ieee fraud detection: 
 #### California House Price Detection: 
 #### Tabular classification/regression:
